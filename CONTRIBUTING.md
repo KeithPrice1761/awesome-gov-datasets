@@ -9,3 +9,4 @@ Notes and usage details for awesome-gov-datasets.
 - fix a small wording issue
 - fix a small wording issue
 - clarify the setup steps
+- fix a small wording issue
